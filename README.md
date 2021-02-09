@@ -16,7 +16,7 @@ A valid polygon in this case, has unambiguous exteriors, no touching segments ex
 
 A valid polygon is said to be simple.
 
-[polygon](https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons.png "Building geometry")
+![polygon](https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons.png "Building geometry")
 
 
 **PS: This was an MSc course project @TUDresden.**
