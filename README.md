@@ -1,7 +1,8 @@
 # ORTHOGONALITY
 
-## Enforcing Orthogonality of Segments in Building Footprints
-- - - - 
+### Enforcing Orthogonality of Segments in Building Footprints
+
+<br>
 
 ## TASK DESCRIPTION: ##
 Create new building footprints dataset that enforces rectangular corners, wherever the original ones fall in between 90°-ε and 90°+ε. ε is an inaccuracy measure.
