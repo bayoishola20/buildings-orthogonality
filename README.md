@@ -16,16 +16,21 @@ A valid polygon in this case, has unambiguous exteriors, no touching segments ex
 
 A valid polygon is said to be simple.
 
+<p align="center">
 <img align="center" src="https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons.png" alt="Building geometry">
+</p>
 
+<p align="center">
 <img align="center" src="https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons_.png" alt="Building geometry">
-
+</p>
 
 **CONSTRAINT DEFINITION**: Four-cornered buildings with no inner rings and no self-intersections. Only rectangle-shaped buildings considered.
 
 ## WORKFLOW
 
+<p align="center">
 <img align="center" src="https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/workflow.png" alt="Computation workflow">
+</p>
 
 ## REQUIREMENTS: ##
 
