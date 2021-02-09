@@ -16,15 +16,16 @@ A valid polygon in this case, has unambiguous exteriors, no touching segments ex
 
 A valid polygon is said to be simple.
 
-![polygon](https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons.png "Building geometry")
+<img align="center" src="https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons.png" alt="Building geometry">
 
-![polygon](https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons_.png "Building geometry")
+<img align="center" src="https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/polygons_.png" alt="Building geometry">
+
 
 **CONSTRAINT DEFINITION**: Four-cornered buildings with no inner rings and no self-intersections. Only rectangle-shaped buildings considered.
 
 ## WORKFLOW
 
-![WORKFLOW](https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/workflow.png "Computation workflow")
+<img align="center" src="https://github.com/bayoishola20/buildings-orthogonality/blob/master/assets/workflow.png" alt="Computation workflow">
 
 ## REQUIREMENTS: ##
 
@@ -37,7 +38,7 @@ ArcGIS 10.7.1 ArcPy with advanced license has been used in developing this solut
 |4	|7.98099994659 secs|
 |50	|22.1856946297 secs|
 |100	|36.2016902341 secs|
-|-------------|-----------------|
+|---|---------------- secs|
 
 
 <u>**Test data**</u>: Data (test_building.shp) is a mini extraction of buildings gotten from OSM here: https://www.geofabrik.de/data/shapefiles.html. Data is projected to UTM before use.
